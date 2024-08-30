@@ -1,3 +1,12 @@
+
+<a href="https://app.daily.dev/rao48"><img src="https://api.daily.dev/devcards/v2/a722qtf0dP4RGNMUE4NCL.png?type=default&r=ad5" width="356" alt="rao's Dev Card"/></a>
+<!---
+rajath-optit/rajath-optit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+# will be adding soon
+
 - 👋 Hi, I’m @rajath-optit
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,8 +14,3 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<a href="https://app.daily.dev/rao48"><img src="https://api.daily.dev/devcards/v2/a722qtf0dP4RGNMUE4NCL.png?type=default&r=ad5" width="356" alt="rao's Dev Card"/></a>
-<!---
-rajath-optit/rajath-optit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
